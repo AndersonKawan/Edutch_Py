@@ -1,2 +1,5 @@
 # Edutch_Py
-Projetos em python 
+
+Meus projetos do Edutch
+
+@edutch-pr
